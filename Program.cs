@@ -51,7 +51,7 @@ namespace Test123
                 }
                 else
                 {
-                    return char.ToUpper(name[0]) + name.Substring(1);
+                    return name;
                 }
             }         
         }
